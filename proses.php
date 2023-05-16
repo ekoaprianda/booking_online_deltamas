@@ -37,7 +37,7 @@
 <body style="padding:10px;"><div style="float:left;">
 <center><h3>Proses Booking Service Online Toyota Deltamas Medan</h3></center></div>
 <div style="float:right;">
-<a  href="http://ekoaprianda.skom.id/laporan_booking_online.php " target="_blank" class="btn btn-warning" >Cetak Laporan</button></a>
+<a  href="REPORT/laporan_booking_online.php " target="_blank" class="btn btn-warning" >Cetak Laporan</button></a>
 </a></div>
 <table class="tblctk"align="center"border="1" >
 <tr>
