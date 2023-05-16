@@ -6,8 +6,8 @@ $dbname = "ORDER_IN";
 
 $con = mysqli_connect($servername, $username, $password, $dbname);
   if($con){
-   echo "berhasil";
+   echo "";
     }else{
-        echo "koneksi internet gagal";
+        echo "koneksi gagal";
     }
 ?>
