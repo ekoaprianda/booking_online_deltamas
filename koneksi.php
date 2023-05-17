@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "root";
-$dbname = "ORDER_IN";
+$dbname = "barang_it";
 
 $con = mysqli_connect($servername, $username, $password, $dbname);
   if($con){
